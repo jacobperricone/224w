@@ -8,8 +8,8 @@ PASSWORD = '.?K>b_Hj-T3{]Vc;'
 cnx = {
     'NAME': 'magic',
     'USER': 'magic',
-    'PASSWORD': '.?K>b_Hj-T3{]Vc;',
-    'HOST': 'magic.c83wppb36trw.us-east-1.rds.amazonaws.com'
+    'PASSWORD': 
+    'HOST': 
 }
 
 db = peewee.MySQLDatabase(cnx['NAME'], host=cnx['HOST'], port=3306, user=cnx['USER'],
