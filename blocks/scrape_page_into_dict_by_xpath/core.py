@@ -27,8 +27,8 @@ def main(url, settings, proxies=[], user_agents=[], headers={},
 
     :param proxies: List of proxy addresses
     :type proxies: list
-    :example proxies: [{"http": "http://solutionloft:fallSL2016!@us-dc.proxymesh.com:31280",
-                        "https": "http://solutionloft:fallSL2016!@us-dc.proxymesh.com:31280"}]
+    :example proxies: [{"http": "http://XYZ:fallSL2016!@us-dc.proxymesh.com:31280",
+                        "https": "http://XYZ:fallSL2016!@us-dc.proxymesh.com:31280"}]
 
     :param user_agents: List of user agents
     :type user_agents: list

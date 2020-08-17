@@ -23,11 +23,11 @@ def main(event, function_name, region_name, aws_access_key_id,
 
     :param aws_access_key_id: AWS access key
     :type aws_access_key_id: string
-    :example aws_access_key_id: "AKIAIOSFODNN7EXAMPLE"
+    :example aws_access_key_id: "
 
     :param aws_secret_access_key: AWS secret key
     :type aws_secret_access_key: string
-    :example aws_secret_access_key: "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+    :example aws_secret_access_key:
 
     :returns: Response from AWS lambda
     :type: dict
